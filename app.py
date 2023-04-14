@@ -13,10 +13,10 @@ JOBS = [
   },
   {
     'id': 2,
-    'title': "Commander General",
-    'location': "Ukraine",
-    'department': "Ukrainian Army",
-    'salary': "£ 170,000"
+    'title': "Private Investigator",
+    'location': "56 Baker Street, London",
+    'department': "DetectiveOne",
+    'salary': "£ 30,000"
   },
   {
     'id': 3,
