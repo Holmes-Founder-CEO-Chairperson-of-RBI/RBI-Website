@@ -43,8 +43,12 @@ def poop():
 @app.route("/aboutus")
 def pop():
   return render_template('AboutUs.html')
-
-@app.route("/jobs")
+  
+@app.route("/contactus")
+def popo():
+  return render_template('contactus.html')
+  
+@app.route("/api/jobs")
 def list_jobs():
   return jsonify(JOBS)
 
